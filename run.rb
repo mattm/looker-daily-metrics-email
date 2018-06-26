@@ -5,9 +5,9 @@ require "erb"
 module DailyMetricsEmail
 	EXAMPLE_LOOK_ID = 628
 	LOOKER_API_ENDPOINT = "https://example.looker.com:19999/api/3.0"
-	EMAIL_SMTP = "email-smtp.us-east-1.amazonaws.com"
+	EMAIL_SMTP = "smtp.example.com"
 	EMAIL_DOMAIN = "example.com"
-	EMAIL_FROM = "you@example.net"
+	EMAIL_FROM = "you@example.com"
 	EMAIL_TO = "team@example.com"
 
 	def self.run
