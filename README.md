@@ -1,5 +1,8 @@
 # Daily Metrics Email
 
+See this post for background: [Building a Looker-Powered Daily Metrics Email Report
+](https://mattmazur.com/2018/06/26/building-a-looker-powered-daily-metrics-email-report/).
+
 ## Installation
 
 ```
